@@ -1,0 +1,106 @@
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    gap: 20px;
+    padding: 20px;
+}
+.b1{
+    background-color: rgb(168, 165, 162);
+    text-align: center;
+    font-size: 25px;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+.b2{
+    background-color: rgb(154, 151, 147);
+    text-align: center;
+    font-size: 25px;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+.b3{
+    background-color: rgb(142, 138, 127);
+    
+    text-align: center;
+    font-size: 25px;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+.b4{
+    background-color: rgb(113, 107, 89);
+ 
+    text-align: center;
+    font-size: 25px;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+.grid img{
+    width: 35%;
+    height: 45%;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+.grid p{
+    padding-top: 10px;
+    
+    padding-bottom: 5px;
+}
+.grid h3{
+    padding-top: 10px;
+}
+.soc{
+    background-color: whitesmoke;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+}
+p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+h1{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+h2{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.spicy-rice-regular {
+    font-family: "Spicy Rice", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+  }
+  .dm-serif-display-regular {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .dm-serif-display-regular-italic {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+
+.urbani {
+  font-family: "Urbanist", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+}
+.intro img{
+    margin-top: 15px;
+    margin-left: 30%;
+    margin-bottom: 15px;
+    border: solid black 5px;
+    border-radius: 10px;
+}
+body{
+    background-color: rgb(180, 180, 180);
+}
